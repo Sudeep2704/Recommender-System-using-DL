@@ -28,3 +28,6 @@ This system can be easily adapted to different domains such as:
 
 With this project, we aim to demonstrate not just how recommender systems work, but how they can be trained, evaluated, and deployed in real-world scenarios.
 <img width="906" alt="OP4" src="https://github.com/user-attachments/assets/520fd948-64ca-4d10-9689-7ff70e340647" />
+[Report RSys.pdf](https://github.com/user-attachments/files/19679717/Report.RSys.pdf)
+
+
